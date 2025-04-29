@@ -38,7 +38,11 @@ This project involved the development and integration of a gate control system f
 
 ## Screenshots / Diagrams
 
-> *(Add relevant system flow diagrams, UI screenshots, or database schema images if available and allowed)*
+- Ticket Purchase Page:
+- Theme Park Management System (TPMS): Internal dashboard for ticket & gate management used by staff (see screenshot below)
+![image](https://github.com/user-attachments/assets/3c2738b5-1a0b-442e-a44c-36bcf99727f7)
+
+
 
 ## Note
 
