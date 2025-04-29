@@ -38,7 +38,7 @@ This project involved the development and integration of a gate control system f
 
 ## Screenshots / Diagrams
 
-- Ticket Purchase Page:
+- Ticket Purchase Page: [Kiddytopia Ticketing Landing Page](https://www.ticket2u.com.my/kiddytopia)
 - Theme Park Management System (TPMS): Internal dashboard for ticket & gate management used by staff (see screenshot below)
 ![image](https://github.com/user-attachments/assets/3c2738b5-1a0b-442e-a44c-36bcf99727f7)
 
